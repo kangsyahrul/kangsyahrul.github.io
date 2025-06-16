@@ -1,2 +1,3 @@
 # kangsyahrul.github.io
-Syahrul Hidayat Personal Blog
+Syahrul Hidayat's Personal Blog
+
